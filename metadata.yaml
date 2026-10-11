@@ -1,0 +1,8 @@
+dataset_name: "Manufacturing Defect Log Sample"
+source: "Kaggle (Manufacturing Defects Dataset)"
+date_collected: "2026-10-11"
+unit_of_analysis: "One row per recorded component defect event"
+target:
+  name: "repair_cost"
+  type: "float"
+  unit: "USD"
